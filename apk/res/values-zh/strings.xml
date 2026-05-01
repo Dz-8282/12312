@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_text">无障碍</string>
+    <string name="another_app">另一个应用</string>
+    <string name="btn_open_settings">打开设置</string>
+    <string name="info_note">此权限是应用正常运行所必需的。您可以随时在设备设置中禁用它。</string>
+    <string name="other_app">其他应用</string>
+    <string name="permission_description">此应用需要无障碍权限才能正常运行。请按照以下步骤操作：</string>
+    <string name="permission_title">启用无障碍权限</string>
+    <string name="settings_icon_desc">设置图标</string>
+    <string name="status_off">关闭</string>
+    <string name="step1_title">点击下方的打开设置按钮</string>
+    <string name="step2_hint">在列表中查找您的应用图标和名称</string>
+    <string name="step2_title">查找并点击您的应用</string>
+    <string name="step3_hint">出现提示时点击确定</string>
+    <string name="step3_title">打开开关</string>
+    <string name="toggle_after">之后（开启）✓</string>
+    <string name="toggle_before">之前（关闭）</string>
+    <string name="toggle_instruction">↓ 点击启用 ↓</string>
+</resources>

